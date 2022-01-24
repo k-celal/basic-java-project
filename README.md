@@ -1,2 +1,2 @@
 # java-project
-learn
+Applications I made while learning Java
